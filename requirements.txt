@@ -3,3 +3,5 @@ tqdm
 pandas
 datetime
 plotly
+pymongo
+python-telegram-bot
