@@ -4,6 +4,6 @@
     "scan_period": 3600,
     "mongo_host": "localhost",
     "mongo_port": 27017,
-	"vk_access_token": "",
-	"service_header": ""
+    "vk_access_token": "",
+    "service_header": ""
 }
