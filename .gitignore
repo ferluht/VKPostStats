@@ -1,3 +1,5 @@
 
 .ipynb_checkpoints/VKPostStats-checkpoint.ipynb
 telegram-bot/settings.json
+*.csv
+*.html
