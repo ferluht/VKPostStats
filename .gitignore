@@ -3,3 +3,5 @@
 telegram-bot/settings.json
 *.csv
 *.html
+*__*
+data/*
